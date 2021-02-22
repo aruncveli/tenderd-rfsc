@@ -1,0 +1,16 @@
+{
+  "name": "tenderd-rfsc-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.2.8",
+    "firebase-admin": "^9.5.0",
+    "firebaseui": "^4.7.3"
+  }
+}
